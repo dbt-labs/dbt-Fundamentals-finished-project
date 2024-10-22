@@ -10,6 +10,7 @@ models:
           - unique
           - not_null
 
+
   - name: stg_jaffle_shop__orders
     description: Staged order data from our jaffle shop app.
     columns: 
