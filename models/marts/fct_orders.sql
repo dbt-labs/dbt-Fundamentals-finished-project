@@ -28,3 +28,4 @@ order_payments as (
 )
 
 select * from final
+order by order_date desc
